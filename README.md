@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://mrchiev.xyz">
-    <img alt="title" src="https://i.imgur.com/UZnj9s5.png" />
+    <img alt="title" src="https://i.imgur.com/jz6x4Yg.png" />
   </a>
 </p>
 
