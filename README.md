@@ -33,5 +33,5 @@ I like making Website & Desktop apps, especially apps related to networking such
 
 
 ## ✉️ Reach me
-- [Discord](https://discord.gg/zCr2jeZ)
-- [jadlion.dev@gmail.com](mailto:jadlion.dev@gmail.com)
+- [Discord](https://discord.gg/eHFjvcdZw6)
+- [contact.mrchiev.xyz](mailto:contact.mrchiev.xyz)
